@@ -2,7 +2,7 @@
 
 **Economist | Applied Mathematician | Data Storyteller**
 
-I live at the intersection of **rigorous econometrics** and **computational efficiency**. My passion is transforming complex, messy datasets—from household surveys to agricultural records—into clear narratives that drive public policy and social mobility.
+I live at the intersection of **rigorous econometrics** and **computational efficiency**. My passion is transforming complex, messy datasets into clear narratives that drive public policy and social mobility.
 
 ---
 
