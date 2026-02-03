@@ -2,7 +2,7 @@
 
 **Economist | Applied Mathematician | Data Storyteller**
 
-I live at the intersection of **rigorous econometrics** and **computational efficiency**. My passion is transforming complex, messy datasets into clear narratives that drive public policy and social mobility.
+I live at the intersection of **econometrics**,  **computational undersanding through math** and **deliver impact to our society**. My passion is transforming complex, messy data into clear narratives that drive public policy and social mobility and understand why this methods work.
 
 ---
 
@@ -22,8 +22,6 @@ I believe in using the right tool for the job.
 
 ### 🧠 My Philosophy
 > *"Data is not just numbers; it's the footprint of human experience."*
-
-Whether I'm harmonizing survey data from the Pacific Region or modeling farmer incomes, my goal is to ensure the **integrity of the data** respects the reality it represents.
 
 ---
 
