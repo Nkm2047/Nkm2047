@@ -1,7 +1,7 @@
 
 ### Hi, I'm Nicolás 👋
 
-**Economist | Applied Mathematician | Data-to-Narrative Translator**
+**Economist | Applied Mathematician 
 
 I live at the intersection of econometrics, computational understanding through mathematics, and tangible social impact. What drives me isn't just making models work, but understanding *why* they work, and using 그hat understanding to transform complex, messy data into clear narratives that drive public policy and social mobility.
 
